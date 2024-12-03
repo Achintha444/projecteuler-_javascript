@@ -1,5 +1,5 @@
-// Solution for 2-euler002.js
-// Problem URL: https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem
+// Solution for 3-euler003.js
+// Problem URL: https://www.hackerrank.com/contests/projecteuler/challenges/euler003
 
 /**
  * To solve this problem, we need to find the largest prime factor of a given number n.

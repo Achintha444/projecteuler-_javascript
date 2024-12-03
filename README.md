@@ -10,4 +10,7 @@ In this repository you can find the solutions for the following problem solving 
 - [3. Project Euler #3: Largest prime factor](https://www.hackerrank.com/contests/projecteuler/challenges/euler003/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/projecteuler-_javascript/blob/main/3-euler003.js)
 
+- [4. Project Euler #4: Largest palindrome product](https://www.hackerrank.com/contests/projecteuler/challenges/euler004/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/projecteuler-_javascript/blob/main/4-euler004.js)
+
 Will add the rest of the answers as I complete them.
