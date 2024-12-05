@@ -16,4 +16,7 @@ In this repository you can find the solutions for the following problem solving 
 - [5. Project Euler #5: Smallest multiple](https://www.hackerrank.com/contests/projecteuler/challenges/euler005/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/projecteuler-_javascript/blob/main/5-euler005.js)
 
+- [6. Project Euler #6: Sum square difference](https://www.hackerrank.com/contests/projecteuler/challenges/euler006/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/projecteuler-_javascript/blob/main/6-euler006.js)
+
 Will add the rest of the answers as I complete them.
