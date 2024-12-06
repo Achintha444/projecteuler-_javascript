@@ -19,4 +19,7 @@ In this repository you can find the solutions for the following problem solving 
 - [6. Project Euler #6: Sum square difference](https://www.hackerrank.com/contests/projecteuler/challenges/euler006/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/projecteuler-_javascript/blob/main/6-euler006.js)
 
+- [7. Project Euler #7: 10001st prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler007/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/projecteuler-_javascript/blob/main/7-euler007.js)
+
 Will add the rest of the answers as I complete them.
