@@ -42,5 +42,4 @@ function main() {
         var n = parseInt(readLine());
         console.log(nthPrime(n));
     }
-
 }

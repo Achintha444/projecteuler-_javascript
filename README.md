@@ -22,4 +22,7 @@ In this repository you can find the solutions for the following problem solving 
 - [7. Project Euler #7: 10001st prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler007/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/projecteuler-_javascript/blob/main/7-euler007.js)
 
+- [8. Project Euler #8: Largest product in a series](https://www.hackerrank.com/contests/projecteuler/challenges/euler008/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/projecteuler-_javascript/blob/main/8-euler008.js)
+
 Will add the rest of the answers as I complete them.
