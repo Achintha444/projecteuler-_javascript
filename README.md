@@ -25,4 +25,7 @@ In this repository you can find the solutions for the following problem solving 
 - [8. Project Euler #8: Largest product in a series](https://www.hackerrank.com/contests/projecteuler/challenges/euler008/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/projecteuler-_javascript/blob/main/8-euler008.js)
 
+- [9. Project Euler #9: Special Pythagorean triplet](https://www.hackerrank.com/contests/projecteuler/challenges/euler009/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/projecteuler-_javascript/blob/main/9-euler009.js)
+
 Will add the rest of the answers as I complete them.
