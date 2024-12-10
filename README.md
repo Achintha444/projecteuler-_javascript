@@ -28,4 +28,7 @@ In this repository you can find the solutions for the following problem solving 
 - [9. Project Euler #9: Special Pythagorean triplet](https://www.hackerrank.com/contests/projecteuler/challenges/euler009/problem?isFullScreen=true)
   - [Answer](https://github.com/Achintha444/projecteuler-_javascript/blob/main/9-euler009.js)
 
+- [10. Project Euler #10: Summation of primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler010/problem?isFullScreen=true)
+  - [Answer](https://github.com/Achintha444/projecteuler-_javascript/blob/main/10-euler010.js)
+
 Will add the rest of the answers as I complete them.
